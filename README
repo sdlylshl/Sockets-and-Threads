@@ -1,0 +1,4 @@
+Open a terminal at source codes directory.
+To compile the two programs, type: "make".
+To run server type: ./decryption_server (parameters will be demonstrated).
+To run client type: ./decryption_client (parameters will be demonstrated).
