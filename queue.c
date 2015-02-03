@@ -1,9 +1,3 @@
-/*
- * queue
- *
- *      Author: Abhijeet
- */
-
 #include "queue.h"
 
 static pthread_mutex_t queue_mutex = PTHREAD_MUTEX_INITIALIZER;
